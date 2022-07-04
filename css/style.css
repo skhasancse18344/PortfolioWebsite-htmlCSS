@@ -39,14 +39,14 @@ h1 span{
 .dream{
     display: flex;
     margin-top: 300px;
-    background-image: url(/image/dream-bg.png);
+    background-image: url(../image/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
 .experinces{
     
     display: flex;
-    background-image: url(/image/exp-bg.png);
+    background-image: url(../image/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
